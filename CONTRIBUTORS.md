@@ -1,3 +1,2 @@
 This project is written by Tharathep K.
-Mahidol University
-Chula University
+This project is one of the part of the special lecture
